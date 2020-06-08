@@ -1,3 +1,4 @@
+*.* linguist-language=dart
 *.java linguist-detectable=false
 *.dart linguist-language=Dart
 *.dart linguist-detectable=true
